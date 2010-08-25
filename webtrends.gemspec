@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
   s.name        = "webtrends"
   s.version     = "0.1"
-  s.author      = "John Beynon"
-  s.email       = "john@monochrome.co.uk"
+  s.author      = "Monochrome"
+  s.email       = "support@monochrome.co.uk"
   s.homepage    = ""
   s.summary     = ""
   s.description = ""
